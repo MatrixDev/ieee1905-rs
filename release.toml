@@ -14,11 +14,11 @@ push-remote = "origin"
 # Commit messages
 consolidate-commits = true
 pre-release-hook = ["git-cliff", "--tag", "v{{version}}", "-o", "CHANGELOG.md"]
-pre-release-commit-message = "chore(release): v{{version}}"
+pre-release-commit-message = "chore(release): {{version}}"
 
 # Run checks before releasing (set to false if you don’t want tests to run)
 verify = false
 
 # We sign everything
-sign-commit = true
-sign-tag = true
+#sign-commit = true
+#sign-tag = true
