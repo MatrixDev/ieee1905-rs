@@ -16,9 +16,6 @@ consolidate-commits = true
 pre-release-hook = "git cliff --tag {{version}} -o CHANGELOG.md"
 pre-release-commit-message = "chore(release): {{version}}"
 
-# No automatic bump to a -dev version after release
-dev-version = false
-
 # Run checks before releasing (set to false if you don’t want tests to run)
 verify = false
 
