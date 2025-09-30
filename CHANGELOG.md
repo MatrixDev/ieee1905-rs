@@ -1,3 +1,8 @@
+## [0.1.16] - 2025-09-30
+
+### 🚀 Features
+
+- Updated pre-release-commit-message
 ## [0.1.15] - 2025-09-30
 
 ### 🚀 Features
@@ -14,6 +19,10 @@
 - Fixed git-cliff exec
 - Fixed git-cliff version name
 - Updated pre-release-commit-message
+
+### ⚙️ Miscellaneous Tasks
+
+- *(release)* {{version}}
 ## [0.1.14] - 2025-09-30
 
 ### ⚙️ Miscellaneous Tasks
