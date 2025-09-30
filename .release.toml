@@ -21,6 +21,8 @@ dev-version = false
 # Run checks before releasing (set to false if you don’t want tests to run)
 verify = false
 
+changelog = "CHANGELOG.md"
+
 # We sign everything
 sign-commit = true
 sign-tag = true
