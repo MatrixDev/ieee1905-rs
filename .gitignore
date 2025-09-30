@@ -1,5 +1,6 @@
 # Ignore Visual Studio Code workspace settings
 .vscode/
+.idea/
 
 # Ignore Visual Studio Code workspace settings
 *.code-workspace
