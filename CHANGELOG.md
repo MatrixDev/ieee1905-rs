@@ -1,9 +1,18 @@
+## [0.1.18] - 2025-09-30
+
+### 🚀 Features
+
+- Added cliff.toml
 ## [0.1.17] - 2025-09-30
 
 ### 🚀 Features
 
 - Added shared-version
 - Updated pre-release-commit-message
+
+### ⚙️ Miscellaneous Tasks
+
+- *(release)* 0.1.17
 ## [0.1.16] - 2025-09-30
 
 ### 🚀 Features
