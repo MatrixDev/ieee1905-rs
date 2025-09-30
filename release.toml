@@ -1,4 +1,4 @@
-# .release.toml
+# release.toml
 
 # Only allow releases from main
 allow-branch = ["main"]
