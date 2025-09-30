@@ -1,3 +1,34 @@
+## [0.1.15] - 2025-09-30
+
+### 🚀 Features
+
+- Added changelog gen (part 3)
+- Updated pre-release-hook
+- Pre-release-commit-message (reverted)
+
+### 💼 Other
+
+- Renamed release.toml
+- Removed changelog
+- Removed dev-version
+- Fixed git-cliff exec
+- Fixed git-cliff version name
+- Updated pre-release-commit-message
+## [0.1.14] - 2025-09-30
+
+### ⚙️ Miscellaneous Tasks
+
+- Release ieee1905 version 0.1.14
+## [0.1.13] - 2025-09-30
+
+### 🚀 Features
+
+- Added changelog gen
+- Added changelog gen (part 2)
+
+### ⚙️ Miscellaneous Tasks
+
+- Release ieee1905 version 0.1.13
 ## [0.1.12] - 2025-09-30
 
 ### ⚙️ Miscellaneous Tasks
