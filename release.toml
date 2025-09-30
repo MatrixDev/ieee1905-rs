@@ -22,10 +22,6 @@ dev-version = false
 # Run checks before releasing (set to false if you don’t want tests to run)
 verify = false
 
-# Tell cargo-release where the changelog lives
-changelog = "CHANGELOG.md"
-changelog-seen = 2
-
 # We sign everything
 sign-commit = true
 sign-tag = true
