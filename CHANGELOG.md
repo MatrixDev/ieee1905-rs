@@ -1,8 +1,18 @@
+## [0.1.17] - 2025-09-30
+
+### 🚀 Features
+
+- Added shared-version
+- Updated pre-release-commit-message
 ## [0.1.16] - 2025-09-30
 
 ### 🚀 Features
 
 - Updated pre-release-commit-message
+
+### ⚙️ Miscellaneous Tasks
+
+- *(release)* {{next_version}}
 ## [0.1.15] - 2025-09-30
 
 ### 🚀 Features
