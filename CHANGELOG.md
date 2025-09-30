@@ -1,39 +1,44 @@
+## [0.1.22] - 2025-09-30
+
+### Changes
+
+- Added default commit group
 ## [0.1.21] - 2025-09-30
 
-### 
+### Changes
 
 - Removed commit groups
 ## [0.1.20] - 2025-09-30
 
-### 
+### Changes
 
 - Added release commits filter
 - Changed to post-release-hook (reverted)
 - Changed to post-release-hook
 ## [0.1.19] - 2025-09-30
 
-### 
+### Changes
 
 - Added cliff.toml config
 ## [0.1.18] - 2025-09-30
 
-### 
+### Changes
 
 - Added cliff.toml
 ## [0.1.17] - 2025-09-30
 
-### 
+### Changes
 
 - Updated pre-release-commit-message
 - Added shared-version
 ## [0.1.16] - 2025-09-30
 
-### 
+### Changes
 
 - Updated pre-release-commit-message
 ## [0.1.15] - 2025-09-30
 
-### 
+### Changes
 
 - Pre-release-commit-message (reverted)
 - Updated pre-release-commit-message
@@ -46,37 +51,37 @@
 - Added changelog gen (part 3)
 ## [0.1.14] - 2025-09-30
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.14
 ## [0.1.13] - 2025-09-30
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.13
 - Added changelog gen (part 2)
 - Added changelog gen
 ## [0.1.12] - 2025-09-30
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.12
 - Added pre-release-hook
 ## [0.1.11] - 2025-09-30
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.11
 - Added empty CHANGELOG.md
 ## [0.1.10] - 2025-09-30
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.10
 - Added CHANGELOG.md
 ## [0.1.9] - 2025-09-30
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.9
 - Added idea folder
@@ -90,7 +95,7 @@ moving delivery to wiki
 - Update README.md
 ## [0.1.8] - 2025-09-17
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.8
 - Merge pull request #35 from rdkcentral/release/v0.1.8
@@ -308,7 +313,7 @@ Conditional compilations parameter is also removed.
 Only size based fragmentation is used.
 ## [0.1.7] - 2025-09-09
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.7
 - Merge pull request #12 from rdkcentral/release/v0.1.7
@@ -318,7 +323,7 @@ Release/v0.1.7
 - Removing change log in 0.1.7
 ## [0.1.6] - 2025-09-05
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.6
 - Merge pull request #11 from rdkcentral/release/v0.1.6
@@ -327,7 +332,7 @@ adding change log processing 0.1.6
 - Adding change log processing 0.1.6
 ## [0.1.5] - 2025-09-05
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.5
 - Merge pull request #10 from rdkcentral/release/v0.1.5
@@ -336,7 +341,7 @@ tuning change log processing for 0.1.5
 - Tunning change log processing for 0.1.5
 ## [0.1.4] - 2025-09-05
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.4
 - Merge pull request #9 from rdkcentral/release/v0.1.4
@@ -345,7 +350,7 @@ adding change log processing 0.1.4
 - Adding change log processing 0.1.4
 ## [0.1.3] - 2025-09-04
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.3
 - Merge pull request #8 from rdkcentral/release/v0.1.3
@@ -354,7 +359,7 @@ test release 0.1.3
 - Test release 0.1.3
 ## [0.1.2] - 2025-09-04
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.2
 - Merge pull request #7 from rdkcentral/release/v0.1.2
@@ -370,7 +375,7 @@ Adding info about how to use releases
 - Adding info about how to use releases
 ## [0.1.1] - 2025-09-02
 
-### 
+### Changes
 
 - Release ieee1905 version 0.1.1
 - Adding support for automatic releases
